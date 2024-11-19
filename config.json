@@ -1,14 +1,42 @@
 {
     "en":{
-        "greeting": "hello, world!",
-        "farewell": "Goodbye!"
-},
-    "pt":{
-    "greeting": "Olá, mundo!",
-    "farewell": "Adeus!"
-},
-    "jp":{
-         "greeting": "こんにちは世界",
-        "farewell": "さようなら"
+        "greeting": "Hello, World!",
+        "farewell": "Goodbye, World!"
+    },
+    "pt": {
+        "greeting": "Olá, Mundo!",
+        "farewell": "Adeus, Mundo!"
+    }
+    "es": {
+        "greeting": "Hola, Mundo!",
+        "farewell": "Adiós, Mundo!"
+    }
+    "fr": {
+        "greeting": "Bonjour, Monde!",
+        "farewell": "Au revoir, Monde!"
+    }
+    "de": {
+        "greeting": "Hallo, Welt!",
+        "farewell": "Auf Wiedersehen, Welt!"
+    }
+    "it": {
+        "greeting": "Ciao, Mondo!",
+        "farewell": "Arrivederci, Mondo!"
+    }
+    "ru": {
+        "greeting": "Привет, Мир!",
+        "farewell": "Пока, Мир!"
+    }
+    "zh": {
+        "greeting": "你好，世界!",
+        "farewell": "再见，世界!"
+    }
+    "ja": {
+        "greeting": "こんにちは、世界!",
+        "farewell": "さようなら、世界!"
+    }
+    "ko": {
+        "greeting": "안��하세요, 세상!",
+        "farewell": "안��히 가세요, 세상!"
     }
 }
